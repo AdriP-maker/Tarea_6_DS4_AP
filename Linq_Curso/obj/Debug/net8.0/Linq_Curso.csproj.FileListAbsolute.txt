@@ -1,0 +1,14 @@
+C:\Users\Mipro\source\repos\Linq_Curso\bin\Debug\net8.0\Linq_Curso.exe
+C:\Users\Mipro\source\repos\Linq_Curso\bin\Debug\net8.0\Linq_Curso.deps.json
+C:\Users\Mipro\source\repos\Linq_Curso\bin\Debug\net8.0\Linq_Curso.runtimeconfig.json
+C:\Users\Mipro\source\repos\Linq_Curso\bin\Debug\net8.0\Linq_Curso.dll
+C:\Users\Mipro\source\repos\Linq_Curso\bin\Debug\net8.0\Linq_Curso.pdb
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.AssemblyInfoInputs.cache
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.AssemblyInfo.cs
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.dll
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\refint\Linq_Curso.dll
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.pdb
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\Linq_Curso.genruntimeconfig.cache
+C:\Users\Mipro\source\repos\Linq_Curso\obj\Debug\net8.0\ref\Linq_Curso.dll
